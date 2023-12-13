@@ -8,10 +8,9 @@
 
 ##
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MewOkami&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MewOkami&hide_progress=true&theme=tokyonight"/>
-</div>
+![MewOkami GitHub stats](https://github-readme-stats.vercel.app/api?username=MewOkami&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MewOkami&layout=compact&theme=tokyonight)
 
 ## ~ Tecnologias ultilizadas ~ 💻
 
