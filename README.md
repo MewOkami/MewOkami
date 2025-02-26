@@ -1,7 +1,7 @@
 ## ~ Hi there eu sou a Melissa Sequeira ~ 💾
 
 <div>
-  <p>Sou programadora Full formada por paixão-Stack</p>
+  <p>Sou Desenvolvedora Full Stack formada por paixão-Stack</p>
 </div>
 
 ## ~ Minhas redes ~ 💾
