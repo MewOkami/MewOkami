@@ -1,7 +1,7 @@
 ## ~ Hi there eu sou a Melissa Sequeira ~ 💾
 
 <div>
-  <p>Tenho 19 anos e sou programadora Full-Stack</p>
+  <p>Sou programadora Full formada por paixão-Stack</p>
 </div>
 
 ## ~ Minhas redes ~ 💾
